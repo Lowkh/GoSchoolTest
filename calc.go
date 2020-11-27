@@ -20,6 +20,7 @@ func Divide(a, b int) float64 {
 	return float64(a / b)
 }
 
-//func Power(a, b int) int {
+// Power the two numbers and return the result. 
+func Power(a, b int) int {
 	return int(a**b)
 }
