@@ -10,7 +10,7 @@ func Subtract(a, b int) int {
 	return a - b
 }
 
-// Multiply two numbers and return the result.
+// Multiplication of two numbers and return the result.
 func Multiply(a, b int) int {
 	return a * b
 }
