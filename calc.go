@@ -19,3 +19,7 @@ func Multiply(a, b int) int {
 func Divide(a, b int) float64 {
 	return float64(a / b)
 }
+
+//func Power(a, b int) int {
+	return int(a**b)
+}
