@@ -26,6 +26,9 @@ jobs:
         run: |
           go get github.com/franela/goblin
       - if: ${{success()}}
+        run: |
+          go get tawesoft.co.uk/go/dialog
+      - if: ${{success()}}
         name: Test Go Goblin
         run: |
           go test -v
