@@ -24,6 +24,9 @@ jobs:
           go get github.com/tebeka/go2xunit
       - if: ${{success()}}
         run: |
+          go get tawesoft.co.uk/go/dialog
+      - if: ${{success()}}
+        run: |
           go get github.com/franela/goblin
       - if: ${{success()}}
         name: Test Go Goblin
