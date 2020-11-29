@@ -3,6 +3,7 @@
 Added Whatsapp and Telgram Notify for pushes and pulls
 Whatsapp (https://github.com/marketplace/actions/push-notification-on-whatsapp)
 - Go to Twillo to create an account
+
 ![alt text](https://github.com/Mel-NLY/GoSchoolTest/blob/main/media/Whatsapp%20Notify.jpg?raw=true)
 
 Telegram (https://github.com/marketplace/actions/telegram-notify)
